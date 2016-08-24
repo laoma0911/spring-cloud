@@ -22,10 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="cloud-config-repo" />
         <module name="spring-boot-simple" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cloud-config-repo" target="1.5" />
       <module name="spring-boot-simple" target="1.6" />
     </bytecodeTargetLevel>
   </component>

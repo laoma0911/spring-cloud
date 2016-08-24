@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-repo/cloud-config-repo.iml" filepath="$PROJECT_DIR$/cloud-config-repo/cloud-config-repo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-simple/spring-boot-simple.iml" filepath="$PROJECT_DIR$/spring-boot-simple/spring-boot-simple.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud.iml" />
     </modules>
