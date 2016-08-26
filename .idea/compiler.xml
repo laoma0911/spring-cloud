@@ -23,11 +23,15 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="cloud-config-repo" />
+        <module name="cloud-eureka-ribbon" />
+        <module name="cloud-eureka-server" />
         <module name="spring-boot-simple" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud-config-repo" target="1.5" />
+      <module name="cloud-eureka-ribbon" target="1.6" />
+      <module name="cloud-eureka-server" target="1.6" />
       <module name="spring-boot-simple" target="1.6" />
     </bytecodeTargetLevel>
   </component>
