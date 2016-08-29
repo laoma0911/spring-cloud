@@ -39,7 +39,7 @@ public class SampleController {
         System.out.println(b);
 
 
-        return "Hello World!";
+        return a + b;
     }
 
 
