@@ -1,4 +1,4 @@
-package spring.boot.ribbon;
+package spring.boot.config.ribbon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

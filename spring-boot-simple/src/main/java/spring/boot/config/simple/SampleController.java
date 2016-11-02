@@ -1,4 +1,4 @@
-package spring.boot.simple;
+package spring.boot.config.simple;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;

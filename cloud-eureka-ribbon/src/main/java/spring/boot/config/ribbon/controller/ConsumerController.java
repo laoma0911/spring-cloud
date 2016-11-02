@@ -1,11 +1,11 @@
-package spring.boot.ribbon.controller;
+package spring.boot.config.ribbon.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
-import spring.boot.ribbon.service.ConsumerService;
+import spring.boot.config.ribbon.service.ConsumerService;
 
 /**
  * Created by mazhenbang on 16/8/26.
