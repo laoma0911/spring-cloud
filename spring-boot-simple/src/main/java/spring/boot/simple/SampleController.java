@@ -18,6 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 public class SampleController {
 
+    
 
     @Autowired
     private DiscoveryClient client;
