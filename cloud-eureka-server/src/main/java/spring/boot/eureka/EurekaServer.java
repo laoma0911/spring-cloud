@@ -1,4 +1,4 @@
-package spring.boot.config.eureka;
+package spring.boot.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
