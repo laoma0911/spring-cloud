@@ -23,4 +23,5 @@ public class ConsumerController {
 //        return restTemplate.getForEntity("http://compute-service/test?a=10&b=20", String.class).getBody();
         return consumerService.addService();
     }
+
 }
