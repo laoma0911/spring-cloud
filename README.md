@@ -1,4 +1,4 @@
-![mahua](mahua-logo.jpg)
+
 # spring-cloud
 ##cloud-eureka-server
 * 服务注册中心
@@ -22,6 +22,14 @@
 
 ##cloud-config-client
 * 为springcloud config的client，该项目用来模拟使用springcloud config的项目
+
+
+##有问题反馈
+在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
+
+* 邮件(7304533@qq.com)
+* QQ群: 258298887 欢迎大家加入，共同进步，共同学习
+
 
 
 
